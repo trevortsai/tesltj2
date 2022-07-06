@@ -1,0 +1,28 @@
+{
+    "name": "tesltj2",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "RPG Indiana Frog": "github:racershellos107/rpg-indiana-frog#master",
+        "The RNG Game": "github:racershellos107/the-rng-game#master"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.8.29",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
